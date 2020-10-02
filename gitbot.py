@@ -1,4 +1,4 @@
-# Author: Ragnar
+# Author: tr3yh
 # Date: 20201002
 # Description: Github scraper/downloader by keyword
 # 
